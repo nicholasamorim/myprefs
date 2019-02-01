@@ -48,9 +48,7 @@
     {
         "class": "sidebar_label",
         "fg": [48, 48, 48],
-        "font.size": 12,
-        "font.size": 22,
-        "font_face": "Roboto Mono"
+        "font.size": 14,
     },
     {
         "class": "sidebar_label",
@@ -167,7 +165,7 @@
         "layer0.opacity": 1.0,
         "content_margin": [4, 0, 8, 0],
         "tint_index": 0,
-        "tab_height": 50,
+        "tab_height": 32,
         "tab_overlap": 16
     },
     {
@@ -287,7 +285,7 @@
         "fg": [152, 152, 152],
         "shadow_color": [0, 0, 0, 0.25],
         "shadow_offset": [0, -1],
-        "font.size": 24,
+        "font.size": 12,
     },
     {
         "class": "tab_label",
@@ -445,12 +443,12 @@
         "match_fg": [0, 0, 0],
         "selected_fg": [46, 49, 56],
         "selected_match_fg": [0, 0, 0],
-        "font.size": 26
+        "font.size": 13
     },
     {
         "class": "quick_panel_label",
         "parents": [{"class": "mini_quick_panel_row"}],
-        "font.size": 26
+        "font.size": 13
     },
     {
         "class": "quick_panel_path_label",
@@ -1062,7 +1060,7 @@
     {
         "class": "label_control",
         "parents": [{"class": "status_bar"}],
-        "font.size": 30,
+        "font.size": 12,
         "shadow_color": [255, 255, 255, 0.18],
         "shadow_offset": [0, 1]
     },
